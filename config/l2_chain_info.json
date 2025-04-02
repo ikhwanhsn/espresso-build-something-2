@@ -10,7 +10,7 @@
     "das-index-url": "",
     "has-genesis-state": false,
     "chain-config": {
-      "chainId": 898989,
+      "chainId": 313131,
       "homesteadBlock": 0,
       "daoForkSupport": true,
       "eip150Block": 0,
@@ -38,15 +38,15 @@
       }
     },
     "rollup": {
-      "bridge": "0xBF5Cbc143927c54D28715cAB7F2E0978c690c84a",
-      "inbox": "0x62Ee59B8f4416D8D648Fb988369dD1f5E2AE9eF2",
-      "sequencer-inbox": "0x1106cdD4D69451F6b85b2BAEdBcB7614B7A91DeC",
-      "deployed-at": 135450002,
-      "rollup": "0x5E117401FB148A2ECd2EffCF81B0da406da4fD40",
+      "bridge": "0xC8879D9Af21D1a30Dbdc4e6458562F5a537b275f",
+      "inbox": "0x7261Cd7f7fCFbF0fbB51Cf31893373c6D68fAC17",
+      "sequencer-inbox": "0xc28579adf23DaB5Ab165E41fc082b56B1C239d11",
+      "deployed-at": 137468554,
+      "rollup": "0x7e3Ad6850d883Ef47BA598DD62c0b2367Fad9F5c",
       "native-token": "0x0000000000000000000000000000000000000000",
-      "upgrade-executor": "0x483FEc16F33d53428dFF1918E6BEA256101c31f9",
-      "validator-utils": "0x7dEd7931a5a8A7988376c4D6E63A811C1FA8AdE9",
-      "validator-wallet-creator": "0x261EF48245989159f342ADB950DAf7dD981E6E19"
+      "upgrade-executor": "0xA8C3c43f7eDc890b27586eE013FdBAcA027BB0D1",
+      "validator-utils": "0xDA7B655AEC6125Bc673172Ed0ADB1aE58705d205",
+      "validator-wallet-creator": "0x85E578b3FcbDB2C03A59DC12742c73A8484d1d61"
     }
   }
 ]
